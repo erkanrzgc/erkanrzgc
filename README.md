@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-**Software Engineer & Cybersecurity Researcher**
+**Software Engineer & Cybersecurity Enthusias**
 
 I specialize in developing security tools and automation scripts. My primary focus is building scanners and defensive systems using Python and Shell scripting.
 
