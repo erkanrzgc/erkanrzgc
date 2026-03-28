@@ -11,6 +11,8 @@ I specialize in developing security tools and automation scripts. My primary foc
 
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -20,17 +22,23 @@ I specialize in developing security tools and automation scripts. My primary foc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Featured Project:
-[![cyberm4fia-scanner](https://github-readme-stats.vercel.app/api/pin/?username=erkanrzgc&repo=cyberm4fia-scanner&theme=dark)](https://github.com/erkanrzgc/cyberm4fia-scanner)
+<a href="https://github.com/erkanrzgc/cyberm4fia-scanner" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erkanrzgc&repo=cyberm4fia-scanner&theme=dark" alt="cyberm4fia-scanner" />
+</a>
 
 ### 📊 GitHub Stats:
 ![Erkan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkanrzgc&layout=compact&theme=dark)
 ![Erkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkanrzgc&show_icons=true&theme=dark&rank_icon=github)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erkanrzgc&theme=dark)
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=erkanrzgc&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=erkanrzgc&theme=dark" alt="trophy" />
+</a>
 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/erkan-risngits-6916a4279/) | [Website](https://retain-io.business/)
+<a href="https://www.linkedin.com/in/erkan-risngits-6916a4279/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a> 
+<a href="https://retain-io.business/" target="_blank">![Website](https://img.shields.io/badge/Website-%23121011.svg?style=flat&logo=google-chrome&logoColor=white)</a>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=erkanrzgc&color=blueviolet)
