@@ -19,10 +19,6 @@ I specialize in developing security tools and automation scripts. My primary foc
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![RUST](https://img.shields.io/badge/RUST%20-4D4D4D?style=for-the-badge&logo=rust&logoColor=white)
-# 🚀 Featured Project:
-<a href="https://github.com/erkanrzgc/cyberm4fia-scanner" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erkanrzgc&repo=cyberm4fia-scanner&theme=dark" alt="cyberm4fia-scanner" />
-</a>
 
 # 📊 GitHub Stats:
 ![Erkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkanrzgc&show_icons=true&theme=dark&rank_icon=github)
