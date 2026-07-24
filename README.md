@@ -3,12 +3,12 @@
 **Software Engineer & Cybersecurity Enthusiast**
 
 I'm passionate about cybersecurity and build tools and projects around it — my pinned repositories show what
-I'm currently working on. My biggest project right now is **Octópus**, an agentic LLM for cybersecurity.
+I'm currently working on. 
 
 - 🐙 **Currently building:** [**Octópus**](https://github.com/erkanrzgc/octopus) — an agentic LLM for cybersecurity
 - 🛡️ **Focus:** offensive & defensive security, security tooling, agentic systems
 - 🌐 **Portfolio:** [erkanrzgc.dev](https://www.erkanrzgc.dev/)
-- 💻 **Environment:** Kali Linux · VS Code · Git
+- 💻 **Environment:** Kali Linux · Windows
 
 ---
 
