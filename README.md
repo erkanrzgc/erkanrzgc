@@ -37,9 +37,6 @@ I'm currently working on.
 ![Erkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkanrzgc&show_icons=true&theme=dark&rank_icon=github)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erkanrzgc&theme=dark)
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erkanrzgc&theme=github-dark&hide_border=true)
-
 ## 🏆 Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=erkanrzgc&theme=dark" alt="trophy" />
