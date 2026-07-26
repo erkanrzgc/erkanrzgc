@@ -34,7 +34,6 @@ I'm currently working on.
 ---
 
 ## 📊 GitHub Stats
-![Erkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkanrzgc&show_icons=true&theme=dark&rank_icon=github)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erkanrzgc&theme=dark)
 
 ## 🏆 Trophies
