@@ -1,50 +1,83 @@
-# 💫 About Me
+<div align="center">
 
-**Software Engineer & Cybersecurity Enthusiast**
+# ERKAN RISNGITS
 
-I'm passionate about cybersecurity and build tools and projects around it — my pinned repositories show what
-I'm currently working on. 
+### Security Engineering · Agentic Systems · Software
 
-- 🐙 **Currently building:** [**Octópus**](https://github.com/erkanrzgc/octopus) — an agentic LLM for cybersecurity
-- 🛡️ **Focus:** offensive & defensive security, security tooling, agentic systems
-- 🌐 **Portfolio:** [erkanrzgc.dev](https://www.erkanrzgc.dev/)
-- 💻 **Environment:** Kali Linux · Windows
+Building security-focused tools, autonomous systems, and open-source experiments.
 
----
+[![Portfolio](https://img.shields.io/badge/erkanrzgc.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.erkanrzgc.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-risngits-6916a4279/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/erkanrzgcc)
 
-## 🐙 Featured Project — Octópus
-
-> An **agentic LLM for cybersecurity** — red · blue · network · Linux, with agentic tool use behind an
-> authorization gate. Paired with an agent harness that parses the model's tool calls and runs the real
-> tools through a fail-closed policy gate.
-
-[![Repo](https://img.shields.io/badge/GitHub-octopus-181717?style=for-the-badge&logo=github)](https://github.com/erkanrzgc/octopus)
-[![Weights](https://img.shields.io/badge/🤗%20Hugging%20Face-weights-FFD21E?style=for-the-badge)](https://huggingface.co/erkanrzgcc/octopus-v0.8.1)
+</div>
 
 ---
 
-## 💻 Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## `> whoami`
+
+Cybersecurity-focused software developer interested in **offensive security**, **defensive security**, **security tooling**, and **agentic systems**.
+
+Currently building systems around LLM-driven security automation, tool orchestration, and controlled execution.
+
+```text
+OS        Kali Linux · Windows
+Focus     Cybersecurity · Agentic Systems · Security Tooling
+Code      Python · Shell · PowerShell
+Build     Open-source tools · Experiments · Infrastructure
+```
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erkanrzgc&theme=dark)
+## 🐙 Octópus
 
-## 🏆 Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=erkanrzgc&theme=dark" alt="trophy" />
-</a>
+> **Agentic LLM for cybersecurity.**
+
+Octópus combines a cybersecurity-focused language model with an agent harness capable of interpreting tool calls and executing real security tools through a **fail-closed authorization gate**.
+
+**Domains**
+
+`Red Team` · `Blue Team` · `Network Security` · `Linux` · `Agentic Tool Use`
+
+<p align="left">
+  <a href="https://github.com/erkanrzgc/octopus">
+    <img src="https://img.shields.io/badge/GitHub-Octópus-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://huggingface.co/erkanrzgcc/octopus-v0.8.1">
+    <img src="https://img.shields.io/badge/HuggingFace-Model-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect
-<a href="https://www.erkanrzgc.dev/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-erkanrzgc.dev-121011?style=flat&logo=google-chrome&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/erkan-risngits-6916a4279/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
-<a href="https://huggingface.co/erkanrzgcc" target="_blank">![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-erkanrzgcc-FFD21E?style=flat)</a>
-<a href="https://retain-io.business/" target="_blank">![Retain.io](https://img.shields.io/badge/retain--io.business-4D4D4D?style=flat&logo=google-chrome&logoColor=white)</a>
+## Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,kali,bash,powershell,git,github,linux,windows&theme=dark" />
+</p>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erkanrzgc&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `build · break · understand · improve`
+
+<sub>
+<a href="https://www.erkanrzgc.dev/">erkanrzgc.dev</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/erkanrzgc">github</a>
+&nbsp;·&nbsp;
+<a href="https://huggingface.co/erkanrzgcc">huggingface</a>
+</sub>
+
+</div>
