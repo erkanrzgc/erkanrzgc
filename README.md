@@ -120,4 +120,4 @@ A self-hosted deployment platform built around privilege separation, constrained
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=erkanrzgc&theme=darkhub&no-frame=true&no-bg=true&column=-1)
+<img src="./.github/assets/trophy.svg" width="100%" />
