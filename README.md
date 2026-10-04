@@ -126,6 +126,6 @@ A self-hosted deployment platform built around privilege separation, constrained
 <a href="https://github.com/erkanrzgc?achievement=yolo&tab=achievements">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="74" alt="YOLO" title="YOLO" />
 </a>
-<a href="https://github.com/erkanrzgc?achievement=quickdraw&tab=achievements">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="74" alt="Quickdraw" title="Quickdraw" />
+<a href="https://github.com/erkanrzgc?achievement=pair-extraordinaire&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="74" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
 </a>
