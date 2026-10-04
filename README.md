@@ -4,46 +4,133 @@
 
 ### Software Engineering · Cybersecurity · Agentic Systems
 
-Building security-focused software, intelligent systems, and open-source infrastructure.
+**Engineering secure systems, autonomous tools, and open-source infrastructure.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-erkanrzgc.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://www.erkanrzgc.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erkan_Risngits-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-risngits-6916a4279/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-erkanrzgcc-111111?style=flat-square&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/erkanrzgcc)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-erkanrzgc.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.erkanrzgc.dev/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-risngits-6916a4279/)
+[![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-MODELS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/erkanrzgcc)
+
+<br>
 
 </div>
 
 ---
 
-## Selected Projects
+<div align="center">
 
-### 🐙 [Octópus](https://github.com/erkanrzgc/octopus)
+## Major Projects
 
-**Agentic LLM for cybersecurity.**
+<sub>Systems I design, build, and actively develop.</sub>
 
-Red team · Blue team · Network · Linux · Agentic Tool Use
+<br><br>
 
-A cybersecurity-focused language model paired with an agent harness that executes structured tool calls behind a fail-closed authorization gate.
+<table>
+<tr>
 
-`Python` `PyTorch` `Transformers` `Agentic Systems`
+<td width="33%" align="center" valign="top">
+
+### 🐙 Octópus
+
+**Agentic LLM for cybersecurity**
+
+Cybersecurity-focused language model with structured tool use behind a fail-closed authorization gate.
+
+<br>
+
+`Red Team` `Blue Team`  
+`Agentic AI` `Security`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/erkanrzgc/octopus)
+
+[![Model](https://img.shields.io/badge/🤗-Model_Weights-FFD21E?style=for-the-badge)](https://huggingface.co/erkanrzgcc/octopus-v0.8.1)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ◈ Sentira
+
+**Foresight for public discourse**
+
+Research system for transforming public commentary and news metadata into structured signals around attention, tone, and emerging trends.
+
+<br>
+
+`NLP` `Signals`  
+`Research` `Python`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/erkanrzgc/sentira)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### KΛDRΛN
+
+**Secure self-hosted deployments**
+
+Application deployment and orchestration built around privilege separation and an unprivileged control plane.
+
+<br>
+
+`Go` `Linux`  
+`Infrastructure` `Security`
+
+<br>
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/erkanrzgc/kadran)
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-### ◈ [Sentira](https://github.com/erkanrzgc/sentira)
+<div align="center">
 
-**Foresight for public discourse, aggregate agenda, tone, and early signals.**
+## Tech Stack & Tools
 
-A research-oriented system designed to transform public commentary and news metadata into structured signals for attention, tone, and emerging trends.
+<br>
 
-`Python` `Signal Analysis` `NLP` `Research`
+<img src="https://skillicons.dev/icons?i=python,go,pytorch,linux,kali,bash,powershell,git,github,docker&theme=dark" />
+
+<br><br>
+
+`Python` · `Go` · `PyTorch` · `Linux` · `Kali Linux` · `Bash` · `PowerShell` · `Git` · `Docker`
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Activity
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erkanrzgc&theme=dark&hide_border=true&background=00000000" />
+
+</div>
 
 ---
 
-### Λ [KΛDRΛN](https://github.com/erkanrzgc/kadran)
+<div align="center">
 
-**Self-hosted Git deployments without giving the control panel root access.**
+### Build systems. Understand them. Secure them.
 
-A security-oriented deployment platform built around privilege separation, constrained control boundaries, and an unprivileged management plane.
+<br>
 
-`Go` `Linux` `Self-hosting` `Security Architecture`
+[![GitHub](https://img.shields.io/badge/GitHub-erkanrzgc-181717?style=flat-square&logo=github)](https://github.com/erkanrzgc)
+[![Portfolio](https://img.shields.io/badge/Web-erkanrzgc.dev-181717?style=flat-square&logo=googlechrome)](https://www.erkanrzgc.dev/)
+[![Hugging Face](https://img.shields.io/badge/🤗-erkanrzgcc-FFD21E?style=flat-square)](https://huggingface.co/erkanrzgcc)
 
----
+</div>
