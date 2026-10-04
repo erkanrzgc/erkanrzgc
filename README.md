@@ -4,13 +4,13 @@
 
 ### Software Engineering · Cybersecurity · Agentic Systems
 
-**Engineering secure systems, autonomous tools, and open-source infrastructure.**
+Building secure software, autonomous systems, and infrastructure.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-erkanrzgc.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.erkanrzgc.dev/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-risngits-6916a4279/)
-[![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-MODELS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/erkanrzgcc)
+[![Portfolio](https://img.shields.io/badge/erkanrzgc.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.erkanrzgc.dev/)
+[![GitHub](https://img.shields.io/badge/erkanrzgc-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erkanrzgc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkan-risngits-6916a4279/)
 
 <br>
 
@@ -22,7 +22,7 @@
 
 ## Major Projects
 
-<sub>Systems I design, build, and actively develop.</sub>
+<sub>Selected systems I design and build.</sub>
 
 <br><br>
 
@@ -31,60 +31,63 @@
 
 <td width="33%" align="center" valign="top">
 
-### 🐙 Octópus
+<h3>Octópus</h3>
 
-**Agentic LLM for cybersecurity**
+<sub>AGENTIC CYBERSECURITY</sub>
 
-Cybersecurity-focused language model with structured tool use behind a fail-closed authorization gate.
+<br><br>
 
-<br>
+An agentic language model designed for cybersecurity workflows, with structured tool use behind an authorization gate.
 
-`Red Team` `Blue Team`  
-`Agentic AI` `Security`
+<br><br>
 
-<br>
+`Python` · `PyTorch` · `Agents`
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/erkanrzgc/octopus)
+<br><br>
 
-[![Model](https://img.shields.io/badge/🤗-Model_Weights-FFD21E?style=for-the-badge)](https://huggingface.co/erkanrzgcc/octopus-v0.8.1)
+[![View Project](https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erkanrzgc/octopus)
 
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ◈ Sentira
-
-**Foresight for public discourse**
-
-Research system for transforming public commentary and news metadata into structured signals around attention, tone, and emerging trends.
-
-<br>
-
-`NLP` `Signals`  
-`Research` `Python`
-
-<br>
-
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/erkanrzgc/sentira)
+[![Model](https://img.shields.io/badge/Model_Weights-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/erkanrzgcc/octopus-v0.8.1)
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-### KΛDRΛN
+<h3>Sentira</h3>
 
-**Secure self-hosted deployments**
+<sub>FORESIGHT & SIGNALS</sub>
 
-Application deployment and orchestration built around privilege separation and an unprivileged control plane.
+<br><br>
 
-<br>
+A research system for transforming public discourse and news metadata into structured signals around attention, tone, and emerging trends.
 
-`Go` `Linux`  
-`Infrastructure` `Security`
+<br><br>
 
-<br>
+`Python` · `NLP` · `Signals`
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/erkanrzgc/kadran)
+<br><br>
+
+[![View Project](https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erkanrzgc/sentira)
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>KΛDRΛN</h3>
+
+<sub>SECURE INFRASTRUCTURE</sub>
+
+<br><br>
+
+A self-hosted deployment platform designed around privilege separation and an unprivileged control plane.
+
+<br><br>
+
+`Go` · `Linux` · `Infrastructure`
+
+<br><br>
+
+[![View Project](https://img.shields.io/badge/View_Project-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erkanrzgc/kadran)
 
 </td>
 
@@ -93,19 +96,78 @@ Application deployment and orchestration built around privilege separation and a
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## Tech Stack & Tools
+## Engineering Stack
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,go,pytorch,linux,kali,bash,powershell,git,github,docker&theme=dark" />
+<sub>The technologies behind the work.</sub>
 
 <br><br>
 
-`Python` · `Go` · `PyTorch` · `Linux` · `Kali Linux` · `Bash` · `PowerShell` · `Git` · `Docker`
+<table>
+<tr>
+<td width="33%" align="center">
+
+**LANGUAGES**
+
+<br>
+
+Python  
+Go  
+Shell  
+PowerShell
+
+</td>
+
+<td width="33%" align="center">
+
+**SYSTEMS**
+
+<br>
+
+Linux  
+Kali Linux  
+Docker  
+Git
+
+</td>
+
+<td width="33%" align="center">
+
+**AI & SECURITY**
+
+<br>
+
+PyTorch  
+Transformers  
+Agentic Systems  
+Security Tooling
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## Activity
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erkanrzgc&theme=transparent&hide_border=true" />
+
+<br><br>
+
+<sub>Building in public.</sub>
 
 </div>
 
@@ -113,24 +175,14 @@ Application deployment and orchestration built around privilege separation and a
 
 <div align="center">
 
-## GitHub Activity
+### Build. Understand. Secure.
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erkanrzgc&theme=dark&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-<div align="center">
-
-### Build systems. Understand them. Secure them.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-erkanrzgc-181717?style=flat-square&logo=github)](https://github.com/erkanrzgc)
-[![Portfolio](https://img.shields.io/badge/Web-erkanrzgc.dev-181717?style=flat-square&logo=googlechrome)](https://www.erkanrzgc.dev/)
-[![Hugging Face](https://img.shields.io/badge/🤗-erkanrzgcc-FFD21E?style=flat-square)](https://huggingface.co/erkanrzgcc)
+<sub>
+<a href="https://www.erkanrzgc.dev/">erkanrzgc.dev</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://huggingface.co/erkanrzgcc">Hugging Face</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/erkan-risngits-6916a4279/">LinkedIn</a>
+</sub>
 
 </div>
