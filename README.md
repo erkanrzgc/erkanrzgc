@@ -120,4 +120,12 @@ A self-hosted deployment platform built around privilege separation, constrained
 
 ## 🏆 Achievements
 
-<img src="./.github/assets/trophy.svg" width="100%" />
+<a href="https://github.com/erkanrzgc?achievement=pull-shark&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="74" alt="Pull Shark x2" title="Pull Shark x2" />
+</a>
+<a href="https://github.com/erkanrzgc?achievement=yolo&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="74" alt="YOLO" title="YOLO" />
+</a>
+<a href="https://github.com/erkanrzgc?achievement=quickdraw&tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="74" alt="Quickdraw" title="Quickdraw" />
+</a>
